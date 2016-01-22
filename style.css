@@ -1,0 +1,106 @@
+  body {
+    font-size: 11px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  header {
+    background-image: url(img/payments-banner-graphic.png);
+    background-size: cover;
+    width: 100%;
+  }
+  span {
+    font-size: 3em;
+    color: #8080be;
+  }
+  .bonsailogo {
+    width: 25%;
+  }
+  .backgroundheader {
+    color: white;
+  }
+  .contain {
+    text-align: center;
+    font-size: 2em;
+    padding: 170px;
+  }
+  .bouton1 {
+    color: white;
+    background-color: #00aa83;
+    border-color: #00aa83;
+    padding: 1%;
+    border-radius: 15px;
+  }
+  .navbar {
+    display: inline;
+  }
+  .nav {
+    display: inline-flex;
+    list-style-type: none;
+    margin-left: 10%;
+  }
+  .section {
+    display: inline-flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .logo1 {
+    margin-left: 22%;
+    border-right: 1px solid grey;
+    padding-right: 15%;
+  }
+  .logo2 {
+    margin-left: 15%;
+    border-right: 1px solid grey;
+    padding-right: 20%;
+    padding-left: 5%;
+  }
+  .logo3 {
+    margin-left: 25%;
+  }
+
+
+  .section1 {
+    border-top: 1px solid grey;
+    text-align: center;
+    background-color: #f6f9fb;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+.section5{
+  background-color: #F6F9FB;
+  text-align: center;
+  color: #222;
+  font-size: 1.5em;
+  padding: 5%;
+  border-top: 1px solid grey;
+}
+  .greybanner {
+    text-align: center;
+    background-color: #222;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white;
+  }
+.imagecenter {
+  width: 49.8%;
+  display: inline-flex;
+}
+footer {
+  background-color: #222;
+  color: grey;
+}
+footer > p {
+  text-align: center;
+}
+.footer {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 1.5em;
+    margin-left: 5%;
+    padding: 10%;
+}
+.bot {
+  margin-left: 70%;
+}
